@@ -3,3 +3,4 @@ I have built TextUtils as a learning of ReactJS and to practice my front-end dev
 
 I am proud of the way the app turned out, and I believe it is a valuable tool for anyone who needs to work with text. I am currently working on adding additional features to TextUtils, such as the ability to search for text within the app and to export the results of text analysis. I am also planning to make the app available on mobile devices.
 
+![textutils](https://github.com/venishaparmar/TextUtils/assets/92502898/fdc3a5cf-a92d-4b2e-9342-51d91acbc84f)
