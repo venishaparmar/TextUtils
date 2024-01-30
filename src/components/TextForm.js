@@ -47,7 +47,7 @@ const handleExtraSpaces = () => {
               <textarea className="form-control" value={text} onChange={handleOnChange} style={{backgroundColor: props.mode==='dark'?'rgb(70 87 100)':'white', color: props.mode==='dark'?'white':'#042743'}} id="myBox" rows="10"></textarea>
           </div>
           <button disabled={text.length===0} className="btn btn-primary mx-2" onClick={handleUpClick}>Convert to UpperCase</button>
-          <button disabled={text.length===0} className="btn btn-primary mx-2" onClick={handleLoClick}>Convert to UpperCase</button>
+          <button disabled={text.length===0} className="btn btn-primary mx-2" onClick={handleLoClick}>Convert to LowerCase</button>
           <button disabled={text.length===0} className="btn btn-primary mx-2" onClick={handleClearClick}>Clear Text</button> 
           <button disabled={text.length===0} className="btn btn-primary mx-1 my-1" onClick={handleCopy}>Copy Text</button>
             <button disabled={text.length===0} className="btn btn-primary mx-1 my-1" onClick={handleExtraSpaces}>Remove Extra Spaces</button>   
